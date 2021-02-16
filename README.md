@@ -1,1 +1,1 @@
-Hello! now without the node-modules :)
+Hello! now without the node-modules :) and a new description
